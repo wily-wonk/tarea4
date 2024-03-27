@@ -1,0 +1,90 @@
+/* 
+Autor: Willard Arana Moya
+Página: Mi increíble página web con bootstrap
+Versión: 1.0
+Fecha de creación: 26/03/24
+*/
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.carrusel-wily
+{
+    width: 700px;
+    height: 600px;
+
+}
+.container-wily {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.lista-wily:hover {
+  background-color: rgb(255, 255, 255);
+  color: white;
+  font-family: "Pacifico", cursive;
+  font-weight: 600px;
+  font-style: normal;
+  border: 2px solid #00ff00;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+}
+h1 {
+    text-align: center;
+    color: #ff5733;
+}
+p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+.nombre {
+    background-color: #ffeeba;
+    padding: 10px;
+    border-radius: 5px;
+}
+.sig {
+    text-align: center;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.image-wil{
+    height: 600px;
+    border-radius: 25px;
+}
+
+.container{
+    align-items: center;
+}
+
+.tittle {
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(186, 51, 198);
+}
+
+.img-wily {
+  height: 400px;
+  border-radius: 25px;
+}
+
+.titulo {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titulo2{
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(26, 116, 234);
+}
+.tabla-wily {
+  width: 700px;
+}
